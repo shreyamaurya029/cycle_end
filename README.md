@@ -65,8 +65,5 @@ Welcome to the Cycle Rental System! This system offers a seamless solution for m
 
 This project is licensed under the [MIT License](LICENSE).
 
-**Contact:**
-
-For any inquiries or support, please contact [email@example.com](mailto:email@example.com).
 
 Thank you for choosing the Cycle Rental System! We hope you enjoy using our platform.
